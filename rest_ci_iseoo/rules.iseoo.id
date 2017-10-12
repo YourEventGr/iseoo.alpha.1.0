@@ -1,0 +1,38 @@
+keterangan
+
+'101'   =>  'status user admin'
+'102'   =>  'status user member'
+
+'201'   =>  'status opsi aktif'
+'202'   =>  'status opsi non aktif'
+
+'301'   =>  'status sponsor/jasa dibuat'
+'302'   =>  'status sponsor/jasa ditampilkan'
+'303'   =>  'status sponsor/jasa tidak ditampilkan karena pelanggaran'
+'304'   =>  'status sponsor/jasa tidak ditampilkan karena tidak/belum memperpanjang'
+
+'401'   =>  'order/request menunggu respon'
+'402'   =>  'respon order/request diterima'
+'403'   =>  'respon order/request ditolak'
+
+'500'   =>  'notif belum dibaca'
+'501'   =>  'notif telah dibaca'
+
+'601'   =>  'event ongoing'
+'602'   =>  'event expired'
+
+'701'   =>  'sponsor tunggal'
+'702'   =>  'sponsor utama'
+'703'   =>  'sponsor madya'
+'704'   =>  'sponsor partisipan'
+
+'801'   =>  'layanan tipe A'
+'802'   =>  'layanan tipe B'
+'803'   =>  'layanan tipe C'
+'804'   =>  'layanan tipe D'
+'805'   =>  'layanan tipe E'
+
+pesan
+
+'1101'  =>  'request sukses'
+'1102'  =>  'request gagal'
